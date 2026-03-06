@@ -1,7 +1,7 @@
 # MelonLoader Installation Guide
 
 ::: tip
-If you do not know how to find your game path, refer to [Locating Your Game](/docs//extra//locating-your-game.md)
+If you do not know how to find your game path, refer to [Locating Your Game](/docs/extra/locating-your-game.md)
 :::
 
 ## 0. Preface
