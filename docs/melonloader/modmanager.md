@@ -1,7 +1,11 @@
-# MelonLoader Installation Guide
+# Installation Guide
 
 ::: tip
 If you do not know how to find your game path, refer to [Locating Your Game](/docs/extra/locating-your-game.md).
+:::
+
+::: tip
+If you need help with installation, don't hesitate to ask in the [Gorilla Tag Modding Hub Discord](https://discord.gg/t8AmU8YVcs)!
 :::
 
 ## Mod Managers
@@ -46,15 +50,17 @@ If the installation fails, report the issue to the Gorilla Tag Modding Hub Disco
 Congratulations, you've now successfully modded Gorilla Tag!
 
 To ensure all your mods work, you need GorillaLibrary.
-Go to [GorillaLibrary's GitHub Releases](https://github.com/GorillaTagModdingHub/GorillaLibrary/releases), and download GorillaLibrary.zip
+Go to [GorillaLibrary's GitHub Releases](https://github.com/GorillaTagModdingHub/GorillaLibrary/releases), and download `GorillaLibrary-[ver].zip`
+
+![screenshot of gorillalib git releases](/assets/glib.png)
 
 Unzip the file that you downloaded.
 
 Next, find your Gorilla Tag folder, and copy the contents of the folder into it.
 
 ::: warning HOLD UP!
-**DO NOT** copy the base GorillaLibrary folder into Gorilla Tag's folder.
-Instead, copy the **contents** of it (Mods/).
+**DO NOT** copy the base `GorillaLibrary` folder into Gorilla Tag's folder.
+Instead, copy the **contents** of it (`Mods/`).
 :::
 
 ## Finishing up
