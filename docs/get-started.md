@@ -6,7 +6,7 @@ Before getting into the main part of the guide, we'll address some frequently as
 
 Although modding is not officially supported by Another Axiom, you're unlikely to get banned if you refrain from using cheats.
 
-## What's the difference between **_mods_** and **_cheats_** (legal/illegal(?
+## What's the difference between **_mods_** and **_cheats_** (legal/illegal)?
 
 ### Mods (legal)
 
