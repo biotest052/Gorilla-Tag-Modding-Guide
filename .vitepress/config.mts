@@ -8,7 +8,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Get Started', link: '/docs/get-started' }
+      { text: 'Get Started', link: '/docs/get-started' },
+      { text: 'Developer\'s Guide', link: '/dev/overview' }
     ],
 
     sidebar: {
@@ -46,7 +47,13 @@ export default defineConfig({
         {
           items: [
             {
-              text: 'Developer\'s Guide', link: '/dev/overview.md'
+              text: 'Developer\'s Guide', link: '/dev/overview'
+            },
+            {
+              text: 'Creating Mods',
+              items: [
+                { text: 'Initial Setup', link: '/dev/initial-setup' }
+              ]
             }
           ]
         }
