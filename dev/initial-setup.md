@@ -56,7 +56,7 @@ MelonLoader is the mod loader we’ll use for Gorilla Tag. It handles injecting 
 2. Run the installer and point it to your Gorilla Tag installation.
 3. Launch the game once to allow MelonLoader to generate configuration files.
 
-After installation, check the `Mods` folder inside your Gorilla Tag directory. This is where all your mods will go. You can also tweak settings in `MelonLoaderPrefs.ini` if needed.
+After installation, check the `Mods` folder inside your Gorilla Tag directory. This is where all your mods will go.
 
 ---
 
