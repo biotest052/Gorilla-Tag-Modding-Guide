@@ -20,10 +20,10 @@ features:
     linkText: Beginner's Guide
   - title: Developing Mods
     details: -- WIP --
-    link: /docs/get-started
+    link: /dev/overview
     linkText: Developer's Guide
   - title: FAQ
     details: Running into issues? See if you can find your answer here!
-    link: /docs/get-started
+    link: /extras/faq
     linkText: Frequently Asked Questions
 ---
