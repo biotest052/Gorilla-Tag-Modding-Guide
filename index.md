@@ -24,6 +24,6 @@ features:
     linkText: Developer's Guide
   - title: FAQ
     details: Running into issues? See if you can find your answer here!
-    link: /extras/faq
+    link: /docs/extra/faq
     linkText: Frequently Asked Questions
 ---

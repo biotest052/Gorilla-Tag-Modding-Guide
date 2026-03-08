@@ -25,14 +25,14 @@ export default defineConfig({
           items: [
             { text: 'Installation (Mod Manager)', link: '/docs/melonloader/modmanager' },
             { text: 'Installation (Manual)', link: '/docs/melonloader/guide' },
-
           ]
         },
         {
           text: 'Extras',
           items: [
             { text: 'Linux', link: '/docs/extra/linux' },
-            { text: 'Locating Your Game', link: '/docs/extra/locating-your-game' }
+            { text: 'Locating Your Game', link: '/docs/extra/locating-your-game' },
+            { text: 'Frequently Asked Questions', link: '/docs/extra/faq' }
           ]
         },
         {
