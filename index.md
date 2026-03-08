@@ -14,10 +14,16 @@ hero:
       link: https://discord.gg/t8AmU8YVcs
 
 features:
-  - title: Bullshit
-    details: I have to have these dumb ass boxes here, otherwise it looks like shit.
-  - title: Bullshit
-    details: I have to have these dumb ass boxes here, otherwise it looks like shit.
-  - title: Bullshit
-    details: I have to have these dumb ass boxes here, otherwise it looks like shit.
+  - title: Installing Mods
+    details: Find out how to install mods for Gorilla Tag!
+    link: /docs/get-started
+    linkText: Beginner's Guide
+  - title: Developing Mods
+    details: -- WIP --
+    link: /docs/get-started
+    linkText: Developer's Guide
+  - title: FAQ
+    details: Running into issues? See if you can find your answer here!
+    link: /docs/get-started
+    linkText: Frequently Asked Questions
 ---
